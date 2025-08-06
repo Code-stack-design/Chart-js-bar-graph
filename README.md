@@ -10,4 +10,4 @@ It displays a simple bar graph of color popularity using Chart.js.
 - Open `index.html` in your browser.
 
 ## Screenshot
-![Screenshot](https://drive.google.com/file/d/1VQhW3Gi4jkvh9WvFA8UiDnW7Nk17rQ37/view?usp=sharing)
+[Screenshot](https://drive.google.com/file/d/1VQhW3Gi4jkvh9WvFA8UiDnW7Nk17rQ37/view?usp=sharing)
